@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hwiyoungstat.github.io/newweb/sitemap.xml
+Sitemap: https://hwiyoungstat.github.io/sitemap.xml
